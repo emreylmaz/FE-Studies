@@ -1,0 +1,24 @@
+.avatar {
+    width: 125px;
+    height: 125px;
+    border-radius: 50%;
+}
+
+.avatar-box {
+    text-align: center;
+}
+
+.post-description {
+    background-color: whitesmoke;
+    height: 150px;
+}
+
+.post-pagination {
+    display: flex;
+    justify-content: center;
+}
+
+.footer {
+    padding: 20px;
+    height: 150px;
+}
